@@ -1,0 +1,242 @@
+{
+  
+  
+  "header": {
+    "name": "Moonis Ahmed",
+    "professions":  "Software Developer| UX Designer | Web Developer",
+    "links": {
+      "github":"moonisahmed",
+      "phone":"4038352085",
+      "email":"moonisahmed@live.com",
+      "linkedIn":"moonisahmed1"
+      }
+  },
+
+  "workExperience": {
+    "title": "Work Experience",
+    "Work": [
+      {
+        "jobTitle": "Web Developer Co-op",
+        "subTitle": "Innovation, Information and Technology Branch ESDC - Government of Canada",
+        "tenure": "January 2018 - August 2018",
+        "summary": "Worked on projects dealing with clients first hands. This included making business cases for the project, requirement gathering, release planning and progress updates through out the process. ",
+        "Projects":[
+          {
+            "title":"Project 1: ESDC Managers and Team Leaders Community Hub",
+            "description": "For this project, I utilized Sharepoint RESTful API to obtain backend requirements",
+            "bulletPoints": [
+                  {"text":"Created front end in javascript css and html while backend in Node.js"},
+                  {"text":"Led team of 4 individuals for this project , held progress update and daily scrum meeting"},
+                  {"text":"Obtained feedback from various project demos."},
+                  {"text":"Created business case and product demo video for the project as well"}
+              ]
+          
+          },
+          {
+           "title":"Project 2:  Microsoft Office 365 pilot project for Government of Canada.",
+           "description": "",
+           "bulletPoints": [
+                {"text":"Utilized and provided demonstration of how to use various tools within O365"},
+                {"text":" Helped escalate the process of deployment by providing assistance in various stages of life cycle of the product."}
+              ] 
+          }
+          ],
+        "bulletPoints":[
+            
+          ]
+      
+      },
+      {
+        "jobTitle": "IT Support Analyst",
+        "subTitle": "University of Calgary",
+        "tenure": "June 2016 - December 2016",
+        "summary":"Assisted IT department in executing post malware recovery project, domain migration, remote desktop assistance, SCCM deployment, laptop encryptions and providing end user support using Service Now",
+        "Projects":[
+          
+        ],
+        "bulletPoints": [
+          
+          {"text":"Re-imaged existing computers with designated security program"},
+          {"text":"Developed in-depth problem solving skills to mitigate various user issues"}
+        ]
+        
+      }
+    
+    ]
+  },
+
+  "relevantProjects": {
+    "title": "Relevant Projects",
+    "Projects":[
+      {
+        "title":"Software Engineering Project (September 2016 - April 2017)",
+        "description": "Worked on integration of Qlikview BI reporting tools by utilizing Qlikview API",
+        "bulletPoints": [
+              {"text":"Prepared release planning and Bi-weekly iteration development"},
+              {"text":"Worked on team based development of CVS into Devsurge software"},
+              {"text":"Programming languages included Java, C# and .Net 4.5"}
+          ]
+      
+      },
+      {
+       "title":"Employee Time Tracking Tool (Web Development & Database Experience)",
+       "description": "A website to help in time management for employee`s schedule. Designed with javascript css and html with backend done in node.js and firebase.",
+       "bulletPoints": [
+            {"text":"Designed and implemented back-end and front-end of the applications."},         
+            {"text":"Used firebase, Node.js for server side."},
+            {"text":"Utilized HTML5, CSS and Javascript for front-end."}
+          ] 
+      },
+      {
+        "title":"Assembler (Personal Project) ",
+        "description": "A virtual reality 3D puzzle game under the premise of building cheap IKEA furniture.",
+        "bulletPoints": [
+             {"text":"Developed backend for the software in Visual Studios"},         
+             {"text":"Front-end development in Unity"},
+             {"text":"Took part in Prototyping , User research for the project"}
+           ] 
+       }
+      ]
+  },
+
+  "educationalBackground":{
+    "title": "Educational Background",
+    "university": "University of Calgary",
+    "degree": "Bachelor of Science Computer Science",
+    "bulletPoints":[
+        {"text":"Graduation date : December 2018"},
+        {"text":"Concentration in Software Engineering"}
+    ]
+  
+  },
+
+
+  "technicalBackground":{
+    "title": "Technical Background",
+    "skills":[
+
+      {
+        "title":"Programming Languages",
+        "description": "2 years programming experience in Javascript, Java and C# Other Programming languages - c, haskell, Prolog, assembly language, WPF, .Net IDEs MS Visual Studios, Eclipse, Android Studios, IntellaJ, Unity"
+      },
+      {
+        "title":"Web Development",
+        "description":" Front-end HTML5, CSS3 , Javascript, JQuery back-end  Node.js  Other Technologies - json, Firebase , XAMP, PHPmyAdmin MySQL, mangoDB, Heroku IDEs Netbeans, Webstorm, PHPStrom, BracketsIO"
+      },
+      {
+        "title":"Other Applications:  ",
+        "description":"GitHub, SVN, GoogleDocs, Microsoft Office suite, Adobe Illustrative"
+      },
+      {
+        "title":"UI Design experience",
+        "description":"in User research , Prototyping, Wireframe ,AB Testing,  and minimalistic design"
+      },
+      {
+        "title":"Software Practices - ",
+        "description":"Object Oriented Programming, Refactoring, Reflection, Unit Testing, Agile Development, SCRUM, Iterative development, SDLC models, PMBOK "
+      },
+      {
+        "title":"Database concepts -",
+        "description":" Relational databases, Entity Relationship Model, Relational Algebra,Relational Calculus, XML"
+      }
+
+
+    ]
+
+  },
+
+  "additionalSkills":{
+    "title": "Additional Skills",
+    "skills":[
+      {
+        "title":"Team based development",
+        "description": "I have developed core understanding of the challenges and bridges that need to be overcome in collaborated environments"
+      },
+      {
+        "title":"Project Management",
+        "description":"Led from the front in the projects where reducing the communication gap between various sub-teams 2 Organizing and reevaluating goals to meet tight deadlines was priority."
+      },
+      {
+        "title":"Critical Analysis",
+        "description":"Ability to solve complex is why I became computer scientist and have demonstrated in software development in past projects. "
+      },
+      {
+        "title":"Release Planning",
+        "description":"Whether its obtaining user experience or organizing software development through practices of agile. Planning software development has been my strong skill"
+      }
+    ]
+  },
+
+  "volunteerActivities":{
+    "title": "Volunteer Activities",
+    "skills":[
+      {
+        "title":"Event Volunteer at Run For Calgary (2012 - Present ) ",
+        "description": "Promoted Charity Run at University of Calgary Campus "
+      },
+      {
+        "title":"Club President at AMSA",
+        "description":"Managed executive work for the club ( such as monthly reports, annual audits) and Coordinated meet and greet for club members as well as sport activities throughout the year"
+      },
+      {
+        "title":"Humanity First",
+        "description":" Disaster Relief Efforts Volunteer "
+      }
+    ]
+  },
+
+  "additionalProjects": {
+    "title": "Additional Projects",
+    "Projects":[
+      {
+        "title":"MathLander (UI design experience)",
+        "description": "An online tool for students to learn different aspects of logic and math",
+        "bulletPoints": [
+              {"text":"Performed Heuristic evaluation, Prototyping , User research for the project"},
+              {"text":"Designed and implemented the application in WPF, C# using Visual Studios "},
+              {"text":"Created application with Object Oriented Programming design & GitHub for version control "}
+          ]
+      
+      },
+      {
+       "title": "Hospital Patient Allocation Management Tool",
+       "description": "A general implementation of a database application with functionality for creating, storing and deleting patient profiles and room assignment.",
+       "bulletPoints": [
+            {"text":"Designed and implemented back-end and front-end of the applications."},         
+            {"text":"Used MySql and Apache sever for the database and HTML ,CSS and PHP for front-end"}
+          ] 
+      },
+      {
+        "title": "Restaurant E-Menu",
+        "description": "An online e-menu that allows restaurants to create their own menu and have a personalized restaurant page",
+        "bulletPoints": [
+             {"text":"Designed and implemented the front-end of the application using a combination of HTML, CSS, and PHP."},         
+             {"text":"Created the application was with respect to Agile programming practices."}
+           ] 
+       }
+      ]
+  },
+
+  "relevantCourses":{
+    "title": "Relevant Courses",
+    "Lists":[
+      {"text":"Data Structures and Algorithm"},
+      {"text":"Human Computer Interaction"},
+      {"text":"Software Process"},
+      {"text":"Web Based Systems"},
+      {"text":"Large Scale Software Development"},
+      {"text":"Database Systems"}
+    ]
+  }
+
+
+
+
+
+
+
+
+}  
+
+
+
