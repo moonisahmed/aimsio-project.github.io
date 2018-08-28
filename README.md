@@ -1,3 +1,3 @@
 # aimsio-project.github.io
 
-available at moonisahmed.com
+available at http://moonisahmed.com
